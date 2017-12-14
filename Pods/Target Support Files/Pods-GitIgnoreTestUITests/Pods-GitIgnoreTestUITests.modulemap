@@ -1,0 +1,6 @@
+framework module Pods_GitIgnoreTestUITests {
+  umbrella header "Pods-GitIgnoreTestUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
